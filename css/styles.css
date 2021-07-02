@@ -1,0 +1,12 @@
+button {
+    background-color: rgb(96, 96, 245);
+    color: rgb(240, 214, 214);
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+button[disabled] {
+    background-color: rgb(142, 142, 235);
+}
